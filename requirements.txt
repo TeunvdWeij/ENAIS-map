@@ -1,0 +1,4 @@
+ipykernel
+osmpythontools
+pip-chill
+requests
