@@ -9,6 +9,9 @@ This repo produces the map on the [ENAIS website](https://enais.co/).
 You have to download the csv file from the [European AI safety cities sheet](https://docs.google.com/spreadsheets/d/1FETP5mYMquMH6K1v8O_K6IQ-yLibroEBJPcdT6lLYFw/). Make sure to go the right page in the Google Sheet. 
 
 ## Process the data
-The data must be processed, which is what the `process_data.ipynb` notebook is for. It should be self-explanatory, but otherwise you can contact me at mailvanteun@gmail.com
+The data must be processed, which is what the `process_data.ipynb` notebook is for. 
+## Upload the processed data 
+The `hubs_with_coords.csv` and `cities_with_coords.csv` must be upload to their respective layer on https://umap.openstreetmap.fr/en/map/enais-city-overview_915934. I think you need my (Teun) account for this. 
 
-
+## Done! 
+This should be self-explanatory, but otherwise you can contact me at mailvanteun@gmail.com. 
