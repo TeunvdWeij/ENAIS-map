@@ -10,8 +10,9 @@ You have to download the csv file from the [European AI safety cities sheet](htt
 
 ## Process the data
 The data must be processed, which is what the `process_data.ipynb` notebook is for. 
+
 ## Upload the processed data 
-The `hubs_with_coords.csv` and `cities_with_coords.csv` must be upload to their respective layer on https://umap.openstreetmap.fr/en/map/enais-city-overview_915934. I think you need my (Teun) account for this. 
+The `hubs_with_coords.csv` and `cities_with_coords.csv` must be upload to their respective layer on https://umap.openstreetmap.fr/en/map/enais-city-overview_915934. I think you need my (Teun) account for this. You need to be logged in to see the edit button. 
 
 ## Done! 
 This should be self-explanatory, but otherwise you can contact me at mailvanteun@gmail.com. 
