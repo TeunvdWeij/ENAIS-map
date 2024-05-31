@@ -1,0 +1,109 @@
+DO NOT EDIT top two rows (else Teun's code breaks :) ),public,,,,,,,internal,,,,,,,,,,,,
+status,group_type,City,country,orgname,website / email (for contact persons),other_public,last updated,ENAIS contact responsible,organiser email,contact name,other_private,internal notes (2022 descriptions etc.),ENAIS notes,Anto's notes,Agus's notes,active/inactive,size,Which university (if applicable),source,"Private emails (from Agus's database, should not be shared publicly)"
+Not yet ready,City,Brisbane,Australia,AI Safety Brisbane,https://web.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F465042105669446&_rdc=1&_rdr,, 06/2024,,,,,,we should remove this,,,Active,,,From Agus,
+Ready to add,city,Vienna,Austria,Vienna AI Alignment Group (VAIA),https://github.com/ViennaAI/info,, 06/2024,,,,,,,,,,,,,
+Ready to add,National,Bulgaria,Bulgaria,AIS Bulgaria,https://aisafetybulgaria.com/,, 06/2024,,aleksandar@aisafetybulgaria.com,Aleksandar Angelov,,,,,,,,,,
+Ready to add,National,Denmark,Denmark,Ai Safety Denmark,https://web.facebook.com/groups/AISafetyDanmark/members,, 06/2024,,soeren@aisafety.com,Søren Elverlin,,,,,,Active,,,From Agus,
+Ready to add,University,Aachen,Germany,AI Safety Aachen,https://www.aisafetyaachen.org/,, 06/2024,Manuel,,Nico Hillbrand,,,,"Nico is a certified organizer, is participating in OSP S24 and went to UGOR",,Active,,,From Agus,nicohillbrand@gmail.com
+Ready to add,University ,Würzburg,Germany,AI Safety Würzburg,https://www.aisafetywuerzburg.org/,, 06/2024,Manuel,,,,,,,,Active,5,University of Würzburg,From Agus,
+Ready to add,Contact person,Berlin,Germany,Manuel Allgaier,manuel@enais.co,, 06/2024,Manuel,,,,,,,,,,,,
+Ready to add,City,Munich,Germany,Munich AI Alignment,https://munich-ai-alignment.org/,, 06/2024,Manuel,,,,,,,,,,,,
+pending (organiser contacted),,Karlsruhe,Germany,,,, 06/2024,Manuel,lauritowal@yahoo.com,,,"I (Walter Laurito) am working on a project at SERI MATS right now, which I might continue in my city Karlsruhe afterwards. I'm also pursuing a PhD there and try to integrate AI Safety topics there, since I have some freedom in choosing what do work on. Apart from me, there are 5-6 people from the local EA community interested in AI Safety. Karlsruhe is famous for its university and great education in computer science in Germany. Furthermore, Karlsruhe has many different research labs... I think having talks, presentations and meetups about AI safety could be very valuable there... Once, I'm back from Berkeley, I will think about that more.",,,,,,,,
+inactive? --> contact organiser,,Magdeburg,Germany,,,, 06/2024,Manuel,,,,,,,,,,,,
+inactive? --> contact organiser,,Tübingen,Germany,,,, 06/2024,Manuel,,,,"Tübingen has a large cluster of AI institutes, including two Max-Planck Institutes and a large department at the university. The IMPRS-IS which is the joint program for all institutes has over 200 PhD students working on AI and related questions. According to statements by the organisers of the IMPRS-IS, Tübingen is the biggest AI location in Europe. There is a large and vibrant EA chapter in Tübingen that regularly has meetings with 20 or more people some of whom are focused on AI safety. Unfortunately, nobody in the faculty seems really interested about the kind of AI safety that tries to prevent catastrophic outcomes from misaligned AI. I (Marius) think there should be a presence of AI safety researchers there, but I'm also frustrated with the current faculty and thus intend to leave Tübingen in the near future. ",,,,,,,,
+Ready to add,National,Budapest,Hungary,Ai Safety Hungary,aishungary.com,, 06/2024,,info@aishungary.org,Gergő Gáspár,,"AI Safety Hungary's aim is to help people kickstart their career in AI Safety. We do this by providing free corses, career advice and organise events such as meetups and hackathons.",,,,Active,20-30,,From Agus,
+Ready to add,University,Groningen,Netherlands,AISIG,https://www.aisig.org/,, 06/2024,,max@aisig.org.,Max Kearney,,"Our mission is to empower and connect university students, academics, everyone - to shape a safe and responsible future of AI. We are running the AGISF course, hackathons, talks, and additional events. More information can be found on our website.",,"Max was a participant in UGAP F22, OSP S23, and OSP AI S24. Also participated in the intro to EA program (2022) and applied as a facilitator. Joris Postmus participated in OSP S24. (Max and Joris are the directos). This is a group for students and scholars. Pinged on Slack",,Active,10-15,Groningen University,From Agus,
+Ready to add,University,Delft,Netherlands,DAISI,https://www.delftaisafety.org/,, 06/2024,,,,,,,pinged Jan on Slack,,Unsure,20,Delft University of Technology,From Agus,
+Ready to add,University,Eindhoven,Netherlands,Eindhoven AI Safety Team (EAIST),https://www.eaeindhoven.nl/ai-safety-team,, 06/2024,,info@eaeindhoven.nl,,,,,Subteam of EA Eindhoven,,Active,35,Eindhoven University of Technology ,From Agus,oliver.hayman@oxai.org 
+Ready to add,University,Tilburg,Netherlands,TAISI,,, 06/2024,,,Jelle Donders,,,,From the EA Group,,Active,3,Tilburg University ,From Agus,oliver.jaffe@hotmail.co.uk
+Ready to add,University,Maastricht,Netherlands,Effective Altruism Maastricht (AIS subgroup),https://www.effectivealtruismmaastricht.nl/,, 06/2024,,,Aryan Suri,,,,,Aryan Suri is the organizer in charge of the AI Safety subgroup. He's currently in OSP S24,Active,,Maastricht University,From Agus,
+Ready to add,University,Utrecht,Netherlands,AI Safety Fundamentals Utrecht ,,, 06/2024,,,Max Schaffelder,,,,,,Active,,Utrecht University,From Agus,
+Ready to add,University,Nijmegen,Netherlands,Existential Risks from Emerging Technologies (ERET) ,,, 06/2024,,,Timo Pieters,,,,,,Active,,Radboud University of Nijmegen,From Agus,
+Ready to add,City,Amsterdam,Netherlands,"AI Safety Amsterdam (AISA) is committed to mitigating the risks associated with Artificial Intelligence. In a rapidly evolving technological landscape, our mission is to ensure that AI development proceeds with the highest standards of safety and ethical considerations.
+
+Affiliated with the University of Amsterdam, AISA serves as an interdisciplinary platform that brings together researchers, students, and professionals. Our diverse team is united by a shared commitment to making AI safer for everyone.",https://aisafetyamsterdam.com/,, 06/2024,,,,,"The University of Amsterdam produces excellent AI research, including interpretability work, particularly in the ILLC and AMLab. However AIS is not widespread in the uni. One reinforcement learning researcher (Herke van Hoof) supervised two students in their safety-related master's thesis projects who then became full-time AIS researchers at the PhD student level, so there's at least some basic amount of openness toward safety work. In general, there is some amount of interest on AI Safety among university students and PhD students, and some university students read through the fundamentals program together. There is not AIS group yet. ",,,,,,,,
+Ready to add,University,Bergen,Norway,AI Safety Bergen ,https://effektivaltruisme.no/uib,, 06/2024,,,Anette Molvik Nilsen,,,,,,Active,,University of Bergen,From Agus,
+Ready to add,AIS co-working space,Belgrade,Serbia,,https://www.lesswrong.com/posts/jcCyii8NcZLZ2M223/ai-safety-hub-serbia-official-opening,, 06/2024,,dusan.d.nesic@efektivnialtruizam.rs,,,"Several enthusiasts hold monthly meetings on AI Safety as part of EA Serbia. We plan to start AIS Fundamentals course in person, and are reaching out to universities around. We have some industry connections, may be able to get office space affordably for those who want to come and work remotely from Belgrade.",,,,,,,,
+Ready to add,city,Gothenburg,Sweden,AI Safety Gothenburg,https://www.aisafetygothenburg.org/home,, 06/2024,,contact@aisafetygothenburg.org ,Alvin Ånestrand,,,,,,Active,11,Chalmers University of Technology,From Agus,
+Ready to add,National,Sweden,Sweden,AI Safety North,https://aisafetysweden.com/,, 06/2024,,AISafetySweden@gmail.com,,,,,,"Used to be AI Safety Sweden but they expanded the scope to the nordics. They're now trying to regroup under 'AI Safety Collabs', but the entire group is in a weird state,",Active,,,From Agus,
+Ready to add,City,Zürich. Switzerland,Switzerland,Zürich AI Alignment Group (ZAIA),https://www.zurich-ai-alignment.com/,, 06/2024,,,Lukas Fluri,ETH Zürich near-term AI safety research: 1) Safe Artificial Intelligence 2) Computer Security and Privacy Group  3) Learning & Adaptive Systems Group  OpenPhil funded researchers: 1) Prof. Dr. Florian Tramèr (formerly OpenPhil) 2) Cynthia Chen (PhD student) 3) Zhijing Jin (PhD student) Other researchers: 1) Lennart Heim (GovAI) 2) Jérémy Scheurer (FAR AI) 3) Johannes Gasteiger (Google Research),"Zürich AI Alignment group (ZAIA) runs AGI Safety Fundamentals Courses, reading groups discussing recent ai safety research and collaborations on research projects.
+",,,,Active,,,From Agus,lukas.fluri@protonmail.ch
+Ready to add,city,Lausanne,Switzerland,Safe AI Lausanne,https://safe-ai-lausanne.notion.site/Safe-AI-Lausanne-09fe0108569b476b9044aa3d668128b4,, 06/2024,,lausanne@aisafety.ch,,,,,,,,,,,
+Ready to add,University,Edinburgh,United Kingdom,,https://aished.org/,, 06/2024,,,Fazl Barez,,,,"Fazl participated in OSP S23. but they withdrew. He is also is the co-founder of Stealth AI Startup (January). Elliot Fosong (co-organizer) also participated and according to our records, they completed the program. Their mentor was Aaron Scher. It seems they are the only two organizers for the group.
+",,Active,10,The University of Edinburgh,From Agus,fazlbarez93@gmail.com
+Ready to add,University,Cambridge,United Kingdom,Cambridge AI Safety Hub (CAISH),https://www.cambridgeaisafety.org/,, 06/2024,,hello@cambridgeaisafety.org,,,"We are a network of students and professionals in Cambridge working on AI safety - the problem of ensuring that AI systems don’t cause catastrophic failures as they become increasingly powerful and complex. We do this by conducting technical and policy research, running educational and research programs for people to learn the skills to contribute themselves, and creating a vibrant community of people with shared interests.",,Participant in OSP-AI Spring '24 - Cambridge AI Safety Hub. Emailed.,"Technically a city group, but focused around CU",Active,40-50,Cambridge University,From Agus,chloeli561@gmail.com
+Ready to add,University,Oxford,United Kingdom,OxAI,https://www.oxai.org/ai-safety,, 06/2024,,,Oliver Hayman,,,,Participant in OSP F23,"They have 4 core organizers, but little activity this year (2024-1) (only running regular speaker events plus a research project). They plan to hire at least one FTE organizer next year to get things up and running again, and decouple from the Oxford AI Society, which is the current parent organization for the project. Closely associated with the Oxford AI Safety Hub.",Active,"8 highly engaged, 20 actively around the group",Oxford University,From Agus,
+Ready to add,City,Oxford,United Kingdom,Oxford AI Safety Reading Group,https://web.facebook.com/groups/647639819284418/,, 06/2024,,,,,,,"The Oxford AI Safety Reading Group runs two events, and was formed by merging the FHI Alignment Newsletter Reading Group and the Oxford Introductory AI Safety Reading Group. The first event is a weekly hour-long session (Thursday 12pm-1pm) in which they  read the Alignment Newsletter together and discuss the summaries therein; no preparation is required. The second event is a fortnightly hour-long session (Tuesday 12pm-1pm) in which they select a paper to read in advance and then come together to discuss thoughts, uncertainties, and related ideas. The group is aimed at those in Oxford with a technical background who are conducting (or are interested in conducting) AI safety research, though anyone is welcome to join.",,Active,,,From Agus,jelledonderz@gmail.com
+Ready to add,University,Coventry,United Kingdom,WAI,https://warwick.ai/,, 06/2024,,,Oliver Jaffe,,,,pinged on Slack,,Active,"Not sure, but 106 online members in Discord",Warwick University,From Agus,
+Ready to add,AIS co-working space,London,United Kingdom,London Initiative for Safe AI (LISA),https://www.safeai.org.uk/,, 06/2024,,info@safeai.org.uk,,,"LISA's aim is to improve the safety of advanced AI systems by empowering individual researchers and small organisations. They do this by creating a supportive, collaborative, and dynamic research environment that hosts members who are pioneering a diversity of AI safety research.",,,,,,,,
+Ready to add,city,Gothenburg,,AIS Gothenburg,https://www.aisafetygothenburg.org/,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+Not yet ready,,Cracow,,,,, 06/2024,,,,,We are about to start regular meetings in February/March (contact Mateusz Bagiński at AI Safety slack or wherever),,,,,,,,
+Not yet ready,,Aarhus,,,,, 06/2024,esben,zaki@apartresearch.com,https://youtu.be/Nx5gIbTsHJM,,Aarhus University has an AI safety interested Cognitive Science study and Apart Research has an office here. Write to zaki@apartresearch.com to hear more about what's happening in the city.,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+Not yet ready,,Brussels,,,,, 06/2024,,,,,"Not a hub for technical AI safety research, but a hub for policy work. ",,,,,,,,
+Not yet ready,,Copenhagen,,,,, 06/2024,esben,https://www.facebook.com/groups/266673130348543,,,Apart Research and the Alignment Jams' headquarters are in Copenhagen. A weekly AI safety meetup happens at Bastard Café on Thursdays from 8PM. The AI Safety Reading Group and aisafety.com is also headquartered here with Søren Elverlin.,,,,,,,,
+Not yet ready,,Darmstadt,,,,, 06/2024,,,,,,,,,,,,,
+Not yet ready,,Delft,,,,, 06/2024,teun,,,,"We are running AGISF and regularly organising hackathons. We are planning to scale up in the next months to become a bigger student organisation, attract more people and run cool projects. There is also one professor doing AI Safety (not with a focus on AGI tho) research here. (Website/social media will be set up soon. Until then you can contact us at: jan@eadelft.org)",,,,,,,,
+Not yet ready,,EA NTNU,,,,, 06/2024,,,,,"Trondheim has a thriving university EA group with members interested in AIS reading the AGISF corriculum. However, AIS has not yet penetrated the ML community at universities.",,,,,,,,
+Not yet ready,,EA UiB,,,,, 06/2024,,,,,"The university EA group in Bergen has organized reading groups on Human Compatible, and will likely continue with similar activities this year such as reading through the AGISF. Bergen has a couple of people interested in starting a separate group exclusively focusing on AIS.",,,,,,,,
+Not yet ready,,EA UiO,,,,, 06/2024,,,,,The university EA group at UiO is planning to organizing an AGISF reading group this spring.,,,,,,,,
+Not yet ready,,Geneva,,,,, 06/2024,,,,,,,,,,,,,
+Not yet ready,,Israel,,not europe but ok,,, 06/2024,,,,,"ALTER Israel is working with several researchers, primarily focused on Vanessa Kosoy's Learning Theoretic Alignment, and supporting and connecting researchers in Israel with the broader safety community. We ran an AI Safety Israel conference in 2022, and are considering next steps and other opportunities. There is also a planned weekly AI-Safety coworking session at the EA Israel office. (Other locations in Israel are included as well.)",,,,,,,,
+Not yet ready,London,London,,,,, 06/2024,updated,,,,"There are many org and AI safety activities in London: 
+
+LISA co-working space
+MATS extension program
+Conjecture are based in London and may host visitors on direct invite.
+Center on Long-term Risk is based in London.
+Deepmind has a London office.
+There also exist several uni groups, EA & Rationalish meetups",,,,,,,,
+Not yet ready,Madrid,Madrid,,,,, 06/2024,,,,,L,,,,,,,,
+Not yet ready,Munich,Munich,,,,, 06/2024,Teun,,,,"Couple of AIS discussion groups; high interest, but fragmented research. AIS not yet a prominent topic in universities",,,,,,,,
+Not yet ready, Paris,Paris,,,,, 06/2024,Jonathan,https://discord.gg/CDcRyyzqJ9,,,There's a french AI safety community with enough members in Paris to have regular meetups,,,,,,,,
+Not yet ready, Prague,Prague,,,,, 06/2024,Seems correct? ,,,,"- ACS research group
+- Human-aligned Summerschool
+- Prague Fall Season / FixedPoint co-working   -PIBBSS",,,,,,,,
+Not yet ready,Bratislava,Progressbar,,,,, 06/2024,gergo?,progressbar.sk,,,"We're a former hackerspace (since 2010) now home to digital communities, among them Machine Learning and Effective Altruism.
+We'll be delivering the AGI Safety programs to tech and non-tech folk, and generally advocate for AI Safety in policy and among the AI startups and corporates.",,,,,,,,
+Not yet ready, Stockholm,Stockholm,,,,, 06/2024,,,,,"Direct work
+Researchers:
+- Anders Sandberg (part time in Stockholm region)
+- Olle Häggström  (part time in Stockholm region)
+- Allan Dafoe (part time in Stockholm region)
+- Vincent Boulanin
+
+People working with AI, with an interest in Safety
+- Anton Osika
+- Oliver Edholm
+- Krisitan Rönn
+
+Organizations with some relevance to AI Safety
+- SIPRI
+- Institutet för framtidsstudier
+
+Movement building:
+People
+- Jonas Hallgren
+- Chris Gerrby",,,,,,,,
+Not yet ready,Tallinn,Tallinn,,,,, 06/2024,,,,,,,,,,,,,
+Not yet ready,Tartu,Tartu,,,,, 06/2024,,,,,,,,,,,,,
+Not yet ready,Helsinki,Helsinki,,,,, 06/2024,teun,,,,"Direct work: 
+Researchers: 
+- Anna Katariina Wisakanto (part time in Helsinki region)",,,,,,,,
+Not yet ready,,,,,,, 06/2024,,,,,,,,,,,,,
+Not yet ready,AIS Denmark/Copenhagen,karinaknudsen@outlook.com,,Karina,,, 06/2024,,,,,hasn't started but thinking of making a group (last contact was Gergo writing to her for encouragement but he didn't hear back),,,,,,,,
+Ready to add,AIS co-working space,Berlin,Germany,Teamwork,https://www.teamwork-berlin.org/,A handful of people do AI safety work from Teamwork., 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
+,,,,,,, 06/2024,,,,,,,,,,,,,
