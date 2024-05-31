@@ -1,7 +1,7 @@
 # ENAIS-map
 This repo produces the map on the [ENAIS website](https://enais.co/).
 
-<img width="427" alt="image" src="https://umap.openstreetmap.fr/en/map/enais-map-of-european-groups_915934">
+![Uploading image.png…]()
 
 [Link to the interactive map](https://umap.openstreetmap.fr/en/map/enais-city-overview_915934)
 
