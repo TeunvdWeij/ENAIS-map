@@ -1,7 +1,7 @@
 # ENAIS-map
 This repo produces the map on the [ENAIS website](https://enais.co/).
 
-![Uploading image.png…]()
+![image](https://github.com/TeunvdWeij/ENAIS-map/assets/57399756/97704801-abf6-4fe9-9191-3269f5bc4ece)
 
 [Link to the interactive map](https://umap.openstreetmap.fr/en/map/enais-city-overview_915934)
 
